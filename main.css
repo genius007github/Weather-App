@@ -16,7 +16,15 @@ body {
  
 }
 
-
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: transparent;
+  position: absolute;
+  color: black;
+  bottom: 0;
+  width: 100%;
+}
 .app-wrap {
   display: flex;
   flex-direction: column;
